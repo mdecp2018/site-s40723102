@@ -337,7 +337,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181031205713.2">### MCAD 40723102 網際簡報
+<t tx="leo.20181031205713.2">### MCAD 40723102網際簡報
 
 * [CMSfiy](https://github.com/chiamingyen/cmsimfly) 操作
 * [Onshapeh](https://www.onshape.com/) 操作
